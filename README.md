@@ -1,2 +1,2 @@
 # Images
-A repository for my images
+A repository for my downloads
